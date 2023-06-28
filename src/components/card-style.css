@@ -1,0 +1,55 @@
+#quote-box{
+    background-color: rgb(217, 234, 217);
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    border: 3px solid green;
+    padding: 30px;
+}
+
+#text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    margin-top: 50px;
+    color: rgb(5, 41, 5);
+}
+
+.img-colon{
+    width: 40px;
+    height: 40px; 
+
+}
+
+#author{
+    font-family: monospace;
+    font-style: italic;
+    font-size: large;
+    text-align: right;
+    margin-top: 40px;
+    margin-right: 20px;
+    color: rgb(5, 41, 5);
+}
+
+.twitter-button{
+    align-items: center;
+    padding: 10px;
+}
+
+#new-quote{
+    font-weight: 700;
+    background-color: rgb(93, 171, 93);
+    color: white;
+    float: right;
+    height: 30px;
+    width: 100px;
+}
+
+#tweet-quote{
+    width: 40px;
+    height: 40px;
+    float: left;
+}
+
